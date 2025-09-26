@@ -1,6 +1,9 @@
 # FacultyHack25
 Ecology
 
+
+![358CC360-A6D7-44F9-943E-0E9542612DE0](https://github.com/user-attachments/assets/eb224980-7aa3-418b-b8e7-7851d358a5a2)
+
 **Dr. Mary** is an **Assistant Professor of Practice** who builds forward-thinking biology courses that are clear, rigorous, and human. She teaches both majors and non-majors—recently **Botany**, **Ecology**, **Biology Majors I (lecture)**, and **General Biology 102LB (lab)**—and designs assignments that push students to connect **structure → function**, state precise **one-sentence mechanisms**, and communicate like scientists. Her classes are intentionally accessible for diverse learners, with asynchronous options, plain-language explanations, and UDL choices such as short audio alternatives and visual templates. She leads **course redesigns** that streamline outcomes, align assessments with skills, and raise transparency through concise rubrics and exemplars.
 
 On the operations side, Dr. Mary develops reproducible materials—**Canvas-ready HTML**, **Markdown handouts**, and **SU-branded Word documents**—and incorporates **AI tools** responsibly to speed feedback, generate scaffolded exemplars, check alignment, and reduce busywork so students and instructors can focus on thinking. She evaluates changes with data from low-stakes checks and reflective prompts, iterating quickly to improve clarity and equity. Direct and respectful by default, she values honesty, evidence, and research literacy; students get clear targets and feedback they can act on immediately. A perpetual learner, she embraces technology when it meaningfully improves learning. Outside the lab and lecture hall, she protects time for music, nature, and the people who keep her grounded.
